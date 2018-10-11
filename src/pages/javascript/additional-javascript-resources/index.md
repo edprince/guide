@@ -68,6 +68,7 @@ Find javascript libraries at <a href='http://jster.net' target='_blank' rel='nof
     A full-feature IDE for Javascript, including code completion and support for live linting, version control, and testing. Made by Jet Brains and modelled after their IntelliJ Java IDE.
 *   <a href='http://brackets.io' target='_blank' rel='nofollow'>Brackets</a>
 *   <a href='http://atom.io' target='_blank' rel='nofollow'>Atom</a>
+*   <a href='https://www.vim.org/' target='_blank' rel='nofollow'>Vim</a>
 
     Open source text editor made by GitHub.
     
